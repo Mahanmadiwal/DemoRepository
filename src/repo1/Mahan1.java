@@ -8,7 +8,7 @@ public class Mahan1
 	@Test
 	public void test1()
 	{
-		Reporter.log("Hello");
+		Reporter.log("Hello",true);
 	}
 	
 
