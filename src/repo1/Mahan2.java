@@ -9,6 +9,7 @@ public class Mahan2
 	public void test2()
 	{
 		Reporter.log("Hi",true);
+//		
 	}
 
 }
